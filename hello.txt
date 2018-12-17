@@ -1,3 +1,7 @@
 1111111111
 2222222
+<<<<<<< HEAD
 1212312312412qw
+=======
+adasdasdadasdasdasdasda
+>>>>>>> ff36b58106db1ae237a38becbdea87a12a261acd
